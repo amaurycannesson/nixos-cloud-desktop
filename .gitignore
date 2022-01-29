@@ -1,0 +1,4 @@
+.terraform/
+.envrc
+*.pem
+.DS_Store
